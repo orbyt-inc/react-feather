@@ -164,6 +164,7 @@ export const Maximize2: Icon;
 export const Maximize: Icon;
 export const Meh: Icon;
 export const Menu: Icon;
+export const Merge: Icon;
 export const MessageCircle: Icon;
 export const MessageSquare: Icon;
 export const MicOff: Icon;
